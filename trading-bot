@@ -1,0 +1,6 @@
+/trading-bot
+ ├── strategies/       # Trading algorithms
+ ├── logs/             # Execution logs
+ ├── bot.py            # Main bot script
+ ├── README.md         # Project description
+ ├── requirements.txt  # Dependencies
