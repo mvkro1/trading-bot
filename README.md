@@ -1,5 +1,4 @@
-📌 Description: 
-
+📌 Description:
 An automated cryptocurrency trading bot that uses various trading strategies to execute trades on different exchanges.
 
 📜 Features:
@@ -16,7 +15,7 @@ An automated cryptocurrency trading bot that uses various trading strategies to 
  ├── README.md         # Project description
  ├── requirements.txt  # Dependencies
 
- 🚀 How to Run:
- 
- pip install -r requirements.txt
+🚀 How to Run:
+
+pip install -r requirements.txt
 python bot.py
